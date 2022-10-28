@@ -1,36 +1,35 @@
-## Hi! I'm Marcos Paulo! 🚀
-Front-end developer, with a lot of willingness and willingness to learn, add and evolve.
+###
+<div align="left">
+<img align="left" height="370" src="https://i.imgur.com/dmf6VH3.png"  />
 
-Studying Back-end and aiming for Full Stack development.
+<h3 align="left">Olá, eu sou o Marcos Paulo! Eu sou Desenvolvedor Web Front-End.</h3>
 
-**Need a DEV? Let's work together!**
-
-<div align="center" style="display: flex, flexWrap: no-wrap">
-  <a href="https://github.com/m4rcos-dev"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4rcos-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcos-dev&show_icons=true&theme=dark" alt="">
+<p align="left">Fascinado por desafio, encontrei na (TI) a área ideal, estudando e trabalhando desde os 15 anos de idade, já fui professor, técnico em informática, empreendedor, técnico em eletrônica e reparo em celulares, streamer, criador de conteúdo digital. <br><br> E atualmente desenvolvedor Front-End cursando Back-end e almejando o desenvolvimento Full Stack. <br><br>Mineiro, nascido em 93, casado, pai de dois filhos que me motivam todos os dias a dar o meu máximo e claro, um sonhador correndo atrás de meus objetivos....<br><br>Precisa de um DEV? Vamos trabalhar juntos!</p>
 </div>
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="m4rcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="m4rcos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="m4rcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="m4rcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="m4rcos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="m4rcos-Jest" height="30" width="40" src="https://user-images.githubusercontent.com/104791582/197047579-c08183a6-7f97-48ea-ba42-d96f13907345.svg">
-  <img align="center" alt="m4rcos-RTL" height="30" width="40" src="https://user-images.githubusercontent.com/104791582/197048284-18140464-e1f6-47a0-a5fc-c7f2ec502e47.png">
-  <img align="center" alt="m4rcos-Redux" height="30" width="40" src="https://user-images.githubusercontent.com/104791582/197048613-1a8a1db3-5e57-407e-ace3-1f9ee2001f9a.svg">
-  <img align="center" alt="m4rcos-Matirial-UI" height="30" width="40" src="https://user-images.githubusercontent.com/104791582/197049212-1f44d95a-d9d0-4d66-a181-6510ad36bc7a.png">
-  <img align="right" alt="m4rcos-dev" height="260" style="border-radius:50px" src="https://i.imgur.com/dmf6VH3.png">
-</div>
+<br>
 
-##
+###
+    
+<div align="left">
+  <a href="http://www.linkedin.com/in/dev-marcospaulo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:dev.marcospereira@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+ </div>
+ 
+## Stacks
 
-<div> 
-  <a href = "mailto:dev.marcospereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/dev-marcospaulo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/m4rcos-dev/m4rcos-dev/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
+<div align="center">
+    
+| Linguagens & Ferramentas    |     Frontend     |  Backend - Study  |
+|:----------:|:-------------:|:------:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" width="52" alt="trello logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  /><br><img src="https://user-images.githubusercontent.com/104791582/197048613-1a8a1db3-5e57-407e-ace3-1f9ee2001f9a.svg" height="40" width="52" alt="redux logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  /><img src="https://user-images.githubusercontent.com/104791582/197048284-18140464-e1f6-47a0-a5fc-c7f2ec502e47.png" height="40" width="52" alt="RTL logo"  /><br><img src="https://user-images.githubusercontent.com/104791582/197049212-1f44d95a-d9d0-4d66-a181-6510ad36bc7a.png" height="40" width="52" alt="Material-UI logo"  /><img src="https://user-images.githubusercontent.com/104791582/198681666-d9f1568f-e51a-439c-bdb6-516c5d5d1bda.svg" height="40" width="52" alt="Bootstrap logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="mocha logo"  /><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /> |</div>
+
+###
+
+![Snake animation](https://github.com/m4rcos-dev/m4rcos-dev/blob/output/github-contribution-grid-snake.svg)
+
+###
