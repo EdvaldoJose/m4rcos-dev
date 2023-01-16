@@ -2,9 +2,9 @@
 <div align="left">
 <img align="left" height="370" src="https://i.imgur.com/dmf6VH3.png"  />
 
-<h3 align="left">Olá, eu sou o Marcos Paulo! Eu sou Desenvolvedor Web Front-End.</h3>
+<h3 align="left">Olá, eu sou o Marcos Paulo! Eu sou Desenvolvedor Web Full-Stack.</h3>
 
-<p align="left">Fascinado por desafio, encontrei na (TI) a área ideal, estudando e trabalhando desde os 15 anos de idade, já fui professor, técnico em informática, empreendedor, técnico em eletrônica e reparo em celulares, streamer, criador de conteúdo digital. <br><br> E atualmente desenvolvedor Front-End cursando Back-end e almejando o desenvolvimento Full Stack. <br><br>Mineiro, nascido em 93, casado, pai de dois filhos que me motivam todos os dias a dar o meu máximo e claro, um sonhador correndo atrás de meus objetivos....<br><br>Precisa de um DEV? Vamos trabalhar juntos!</p>
+<p align="left">Fascinado por desafíos, encontrei na (TI) a área ideal, estudando e trabalhando desde os 15 anos de idade, já fui professor, técnico em informática, empreendedor, técnico em eletrônica e reparo em celulares, streamer, criador de conteúdo digital, e atualmente desenvolvedor Web Full Stack. <br><br>Me considero um poliglota em ascensão na linguagem de programação e suas tecnologias pois nessa área não existe bala de prata mas sim uma forma de resolver o problema que pode ser evoluído e melhorado. <br><br>Precisa de um DEV? Vamos trabalhar juntos!</p>
 </div>
 
 <br>
