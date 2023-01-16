@@ -4,7 +4,7 @@
 <div align="left">
 <img align="left" height="370" src="https://i.imgur.com/dmf6VH3.png"  />
 
-<h3 align="left">Hi, I'm Marcos Paulo! I'm a Front-End Web Developer.</h3>
+<h3 align="left">Hi, I'm Marcos Paulo! I'm a Full-Stack Web Developer.</h3>
 
 <p align="left">Fascinated by challenges, I found (IT) the ideal area, studying and working since I was 15 years old, I have been a teacher, IT technician, entrepreneur, electronics technician and cell phone repair, streamer, digital content creator, and currently Full Stack Web Developer. <br><br>I consider myself a "secular" in programming language and technologies because in this area there is no silver bullet but a way to solve the problem that can be evolved and improved.
 <br><br>Need a DEV? Let's work together!</p>
