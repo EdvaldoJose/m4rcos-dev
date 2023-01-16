@@ -6,7 +6,8 @@
 
 <h3 align="left">Hi, I'm Marcos Paulo! I'm a Front-End Web Developer.</h3>
 
-<p align="left">Fascinated by the challenge, I found (IT) the ideal area, studying and working since I was 15 years old, I have been a teacher, computer technician, entrepreneur, electronics technician and cell phone repair, streamer, digital content creator. <br><br>And currently Front-End developer studying Back-end and aiming for Full Stack development. <br><br>Mineiro, born in 93, married, father of two children who motivate me every day to give my best and of course, a dreamer running after my goals....<br><br>Need a DEV? Let's work together!</p>
+<p align="left">Fascinated by challenges, I found (IT) the ideal area, studying and working since I was 15 years old, I have been a teacher, IT technician, entrepreneur, electronics technician and cell phone repair, streamer, digital content creator, and currently Full Stack Web Developer. <br><br>I consider myself a "secular" in programming language and technologies because in this area there is no silver bullet but a way to solve the problem that can be evolved and improved.
+<br><br>Need a DEV? Let's work together!</p>
 </div>
 
 <br><br>
